@@ -32,7 +32,7 @@
   - Kevin Ramírez RM230143 100%
 
 # Licencia
-  -Este proyecto está bajo la Licencia MIT. Consulta el archivo README para más detalles.
+  - Este proyecto está bajo la Licencia MIT. Consulta el archivo README para más detalles.
 
 
 
